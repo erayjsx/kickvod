@@ -1,23 +1,23 @@
 
 # 🎥 KickVOD
 
-Kick yayın geçmişlerini indirmenizi sağlayan bir uygulama.
+Kick is an app that lets you download broadcast histories.
 
 ![image](https://i.ibb.co/jZRx0hFb/image.png)
 
-### 🚀 Özellikler
+### 🚀 Features
 
--   Kick platformundaki yayın geçmişlerini indirir
--   Kullanıcı dostu modern arayüz
--   Hızlı ve verimli indirme süreci
--   Platform bağımsız çalışma (Windows, macOS, Linux)
+- Download broadcast histories on the Kick platform
+- User-friendly modern interface
+- Fast and efficient download process
+- Platform independent operation (Windows, macOS, Linux)
 
-### 📸 Ekran Görüntüleri
+### 📸 Screenshots
 
 ![enter image description here](https://i.ibb.co/pSDWjNb/image.png)
 
-### 📌 Yol Haritası
+### 📌 Road Map
 
- - [ ] Çoklu Dil Desteği
- - [ ] Kalite seçenekleri
- - [ ] Daha fazla özelleştirme seçeneği
+ - [ ] Multiple Language
+ - [ ] Quality options
+ - [ ] More customization options
